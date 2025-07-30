@@ -1,1 +1,92 @@
-past yout appstate
+[
+	{
+		"key": "datr",
+		"value": "ZJiJaBNer0NJ5-YQ_YsV-YzT",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.491Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "sb",
+		"value": "ZJiJaKAWDwetlYj2q4GxpGkl",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100092487662727",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "xs",
+		"value": "42%3AbnERJL2qhBU8Yg%3A2%3A1753847973%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "fr",
+		"value": "0N6890mGS1Wi8iBGJ.AWdI7VUjX4scKtDDqZWVEZ_nnaJ4BJJhMT49hvojUbx7q8DCNdU.BoiZhk..AAA.0.0.BoiZjC.AWdRG7wJQuqR2vO_v0Qoaqw0RcA",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_GB",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "pas",
+		"value": "100092487662727%3ApIFaDc7Z74",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2883%3Btimestamp%3A1753848002",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "100625014%3BT%3A29230800",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.492Z",
+		"lastAccessed": "2025-07-30T04:09:22.492Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B600x360x3",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-30T04:09:22.493Z",
+		"lastAccessed": "2025-07-30T04:09:22.493Z"
+	}
+]
